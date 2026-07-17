@@ -143,7 +143,6 @@ Fake-News-Detection/
 ├── fake_news_model.pkl
 ├── tfidf_vectorizer.pkl
 ├── README.md
-└── .gitignore
 ```
 
 ---
@@ -173,7 +172,6 @@ The trained model classifies an input news article as:
 
 B.Tech Computer Science & Engineering (Data Science)
 
-Babu Banarasi Das Institute of Technology & Management (BBDITM), Lucknow
 
 ---
 
